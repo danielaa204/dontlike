@@ -1,0 +1,1 @@
+Generar una extension para Facebook donde diariamente se contabilice el tiempo de permanencia en esta plataforma cada vez que se inicia sesion.
